@@ -1,7 +1,7 @@
 {
     "name": "@m00nbyte/clear_all_browsing_data",
     "version": "1.0.1",
-    "description": "Enhance your browsing experience by maintaining control over your privacy",
+    "description": "A chrome extension to clear all browsing data with one click",
     "author": "m00nbyte <office@moonbyte.at>",
     "keywords": [
         "clear",
